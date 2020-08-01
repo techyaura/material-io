@@ -1,0 +1,6 @@
+{
+    "eslint.enable": false,
+    "tslint.ignoreDefinitionFiles": true,
+    "tslint.jsEnable": true,
+    "tslint.suppressWhileTypeErrorsPresent": true
+}
