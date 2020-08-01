@@ -5,10 +5,11 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
+    "ghi-pages": "ng build --prod --base-href /material-io/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postbuild": "node scripts/copy-to-docs.js"
+    "postghi-pages": "node scripts/copy-to-docs.js"
   },
   "private": true,
   "dependencies": {
